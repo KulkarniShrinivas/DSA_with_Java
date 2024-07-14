@@ -12,5 +12,8 @@ public class Concept  {
         fun(n--);
 
         //n-- vs --n
+        //n--: first use n then decrement
+        //--n: first decrement then use n
+
     }
 }
